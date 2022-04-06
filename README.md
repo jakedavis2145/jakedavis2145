@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakedavis2145
 - 👀 I’m interested in ... learning all the different languages in coding, and furthering my knowledge with writing code
 - 🌱 I’m currently learning ... Javascript, HTML and React
-- 💞️ I’m looking to collaborate on ... Building working websites 
+- 💞️ I’m looking to collaborate on ... Building working websites, and working with others to solve problems 
 - 📫 How to reach me ... The best way to reach me is email or on my Linkedin
 
 <!---
